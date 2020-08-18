@@ -1,4 +1,4 @@
-## Hi there, I'm Carlos👋
+## Hi there, I'm Rodrigo Costabrava👋
 
 <img
 	src="https://github.com/solrachix/solrachix/blob/master/ativos/dev_productivit.svg?raw=true"
@@ -23,16 +23,13 @@
       <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
 </a>
 
-
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/solrachix/solrachix/blob/master/README.pt-br.md).
 
-
-In the last year of high school integrated with the computer technician! I'm a full-stack programmer, passionate about the best back-end, front-end and mobile development technologies. Fascinated by learning and JavaScript.
+I'm a full-stack programmer, passionate about the best back-end, front-end and mobile development technologies. Fascinated by learning and JavaScript.
 
 ---
 
 ### :computer: Technical Skills
-
 
 #### 🎨 ✍🏼 Designing: <br/>
 
@@ -46,8 +43,7 @@ In the last year of high school integrated with the computer technician! I'm a f
       <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF7D00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
 </a>
 
-
-####  :speech_balloon: Languages
+#### :speech_balloon: Languages
 
 <!--
 <img
@@ -85,7 +81,6 @@ In the last year of high school integrated with the computer technician! I'm a f
       <img alt="React Native" src="https://img.shields.io/badge/react Native-00D2F8.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 
-
 #### :wrench: Tools & Environments
 
 <a href="#">
@@ -103,8 +98,6 @@ In the last year of high school integrated with the computer technician! I'm a f
 <a href="#">
       <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </a>
-
-
 
 #### Architetures & Others
 
@@ -128,6 +121,7 @@ In the last year of high school integrated with the computer technician! I'm a f
 </p>
 
 ---
+
 </br>
 </br>
 
@@ -140,5 +134,5 @@ In the last year of high school integrated with the computer technician! I'm a f
 
 ### Phrases that I say to myself
 
- - ***If you can dream it, you can achieve it.***
- - ***Something is only impossible until it is done.***
+- **_If you can dream it, you can achieve it._**
+- **_Something is only impossible until it is done._**
