@@ -1,7 +1,7 @@
 ## Hi there, I'm Rodrigo Costabrava👋
 
 <img
-	src="https://github.com/solrachix/solrachix/blob/master/ativos/dev_productivit.svg?raw=true"
+	src="https://github.com/rcostabrava001/rcostabrava001/blob/master/ativos/dev_productivit.svg?raw=true"
 	width="400px"
 	height="390px"
 	align="right"
@@ -10,16 +10,16 @@
 <!--
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
 -->
-<a href="https://github.com/solrachix">
+<a href="https://github.com/rcostabrava001">
       <img alt="Github Badge" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/solrachix" />
 </a>
-<a href="https://www.linkedin.com/in/carlos-miguel-380413197">
-      <img alt="Carlos Miguel" src="https://img.shields.io/badge/-Carlos%20Miguel-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/rodrigo-saes-juan-9355a01b/">
+      <img alt="Rodrigo Juan" src="https://img.shields.io/badge/-Rodrigo%20Juan-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="mailto:carlos.miguel.oliveira.17@gmail.com">
-      <img alt="Carlos Miguel" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carlos.miguel.oliveira.17@gmail.com" />
+<a href="mailto:rodrigo.juan@gmail.com">
+      <img alt="Rodrigo Juan" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rodrigo.juan@gmail.com" />
 </a>
-<a href="https://app.rocketseat.com.br/me/solrachix">
+<a href="https://app.rocketseat.com.br/me/rodrigo-juan-1566907970">
       <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
 </a>
 
@@ -124,13 +124,6 @@ I'm a full-stack programmer, passionate about the best back-end, front-end and m
 
 </br>
 </br>
-
-<img
-	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
-	width="200px"
-	height="160px"
-	align="right"
-/>
 
 ### Phrases that I say to myself
 
